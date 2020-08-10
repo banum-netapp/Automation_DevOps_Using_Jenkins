@@ -41,7 +41,7 @@ This exercise focuses on enabling you to do the following::
 *	 Test the access to the Linux VMs and verify that all tools are running properly
 
 
-#### GITHUB CONTAINING THE YAML FILES
+#### GITHUB CONTAINING ALL THE FILES AND TEMPLATES
 You can download or clone the Github public repository containing the necessary files
 https://github.com/HaopengL/Automation_DevOps_Using_Jenkins
 
