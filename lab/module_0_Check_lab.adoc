@@ -55,6 +55,7 @@ image::0_3.png[]
 ## Task 1, Ensure Connectivity to your ONTAP
 1. Open a browser and visit the following Website:
 https://lod-bootcamp.netapp.com
++
 NOTE: If you provision the lab by yourself, please use this lab
 +
 ----
