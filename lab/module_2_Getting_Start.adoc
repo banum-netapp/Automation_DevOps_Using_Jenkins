@@ -41,7 +41,7 @@ docker run -d --name jenkins -p 8080:8080 -u root --restart=always \
 # docker ps
 ----
 
-4. Find the Jenkins *initialAdminPassword* and copy it, will it in the next step.
+4. Find the Jenkins *initialAdminPassword* and copy it, will use it in the next step.
 +
 ----
 # docker logs -f jenkins
@@ -61,7 +61,7 @@ https://rhel5:8080
 +
 image::1_2.png[]
 
-7. Choose Install suggested plugin, wait until all finished
+7. Choose *Install suggested plugins*, wait until all finished
 +
 image::1_3.png[]
 
