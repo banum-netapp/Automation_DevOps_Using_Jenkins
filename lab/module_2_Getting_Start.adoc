@@ -1,4 +1,4 @@
-= Module 2, Getting Start With Jenkins
+= Module 2, Getting Started With Jenkins
 :hardbreaks:
 :nofooter:
 :icons: font
